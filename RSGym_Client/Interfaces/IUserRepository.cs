@@ -1,0 +1,13 @@
+﻿using RSGym_Dal.Models;
+using RSGym_Client.Repositories;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace RSGym_Client.Interfaces
+{
+    public class IUserRepository
+    {
+    }
+}
